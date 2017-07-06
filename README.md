@@ -1,6 +1,3 @@
-# sppyqt
-_Python serial communication GUI tool_
-
 **sppyqt** is developed using Python with [pySerial package](https://pythonhosted.org/pyserial/) and [PyQt GUI framework](https://wiki.python.org/moin/PyQt).
 
 Documents:
