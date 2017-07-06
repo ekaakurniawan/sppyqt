@@ -1,7 +1,7 @@
 **sppyqt** is developed using Python with [pySerial package](https://pythonhosted.org/pyserial/) and [PyQt GUI framework](https://wiki.python.org/moin/PyQt).
 
 Documents:
- - [Slides for PyCon APAC 2011 in Singapore](https://github.com/ekaakurniawan/sppyqt/blob/master/doc/Python%20for%20Serial%20Communication.pdf)
+ - [Slides for PyCon APAC 2011 in Singapore](https://github.com/ekaakurniawan/sppyqt/raw/master/doc/Python%20for%20Serial%20Communication.pdf)
 
 Tested on:
  - Ubuntu Linux 10.10
